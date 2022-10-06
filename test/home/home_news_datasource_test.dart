@@ -1,0 +1,1 @@
+// Implements test for news 
