@@ -37,16 +37,6 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: const Text('Bem-vindo!'),
-      //   actions: [
-      //     IconButton(
-      //         onPressed: () {
-      //           controller.getNewsList();
-      //         },
-      //         icon: const Icon(Icons.search))
-      //   ],
-      // ),
       body: SafeArea(
         child: ScopedBuilder<HomeController, NewsListDatasourceError, HomeState>(
           store: controller,
