@@ -6,7 +6,7 @@ Um novo projecto Flutter.
 
 ● Tela de splash screen [ok]
 
-● Tela de login para informar e-mail e senha; [ok]
+● Tela de login para informar e-mail e senha; [ok] [nope]
 
 ● Tela de cadastro de um novo usuário solicitando nome, e-mail e senha;[nope]
 
